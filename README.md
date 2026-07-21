@@ -2,6 +2,11 @@
 
 Clean folder structure with separate **frontend** and **backend**.
 
+## Live Links
+
+- **GitHub:** https://github.com/Shivamkeer/E-commerce-project
+- **Vercel (Live):** https://frontend-phi-liart-55.vercel.app
+
 ## Project Structure
 
 ```

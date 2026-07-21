@@ -1,7 +1,0 @@
-.menu:hover .submenu{
-   display: flex;
-   flex-direction: column;
-}
-.submenu{
-    display: none;
-}
